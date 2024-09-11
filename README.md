@@ -1,4 +1,4 @@
-# Oi,eu sou João Mendonça 🤓
+# Oi, eu sou João Mendonça 🤓
 
 ## Sobre Mim
 Sou estudante de Java (iniciante) e aspiro ser um Desenvolvedor de Software!
