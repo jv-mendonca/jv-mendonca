@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👩🏻‍💻 João Mendonça
 
-<!--
-**jv-mendonca/jv-mendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-End`**
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim  
+💡 Apaixonado por tecnologia, programação e aprendizado contínuo.  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.  
+🔍 Interesses: **Desenvolvimento Backend, Banco de Dados e Ciência de Dados**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+    <a href="https://github.com/jv-mendonca?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/jv-mendonca?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/jv-mendonca?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/jv-mendonca?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+
+### 🤖 Linguagens e Tecnologias  
+
+<div style="display: flex; align-items: center;">
+    <img 
+        alt="Python" 
+        title="Python"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    />
+    <img 
+        alt="C#" 
+        title="C#"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    />
+    <img 
+        alt="Java" 
+        title="Java"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    />
+    <img 
+        alt="SQL Server" 
+        title="SQL Server"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+    />
+</div>
+
+### 📊 Estatísticas
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jv-mendonca&theme=github_dark)
+
+
+### 🌍 Onde me encontrar
+
+* E-mail: [joaok81mendonca@hotmail.com](mailto:joaok81mendonca@hotmail.com)
+* LinkedIn: [LinkedIn: João Mendonça](https://www.linkedin.com/in/jao-mendonca)
+
+
