@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-### 🚀 Sobre mim  
-💡 Apaixonado por tecnologia, programação e aprendizado contínuo.  
+### 🚀 Sobre mim 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.  
 🔍 Interesses: **Desenvolvimento Backend, Banco de Dados e Ciência de Dados**.  
 
