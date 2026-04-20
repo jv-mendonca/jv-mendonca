@@ -58,6 +58,6 @@
 ### 🌍 Onde me encontrar
 
 * E-mail: [joaok81mendonca@hotmail.com](mailto:joaok81mendonca@hotmail.com)
-* LinkedIn: [LinkedIn: João Mendonça](www.linkedin.com/in/joao-mendonca-dv)
+* LinkedIn: [LinkedIn: João Mendonça](https://www.linkedin.com/in/joao-mendonca-dv/)
 
 
